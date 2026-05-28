@@ -1,0 +1,6 @@
+{
+  "name": "I Know Who You Are",
+  "description": "Personality assessment app based on the scientific IPIP-HEXACO-200 inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
